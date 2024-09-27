@@ -20,8 +20,7 @@
  Follow these steps to install the application.
 1. Clone the Repository
 ```
-git clone 
-
+git clone   https://github.com/duduBmoon21/phms.git
 ```
 2. Go to project directory
 
